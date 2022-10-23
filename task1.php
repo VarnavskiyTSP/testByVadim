@@ -7,7 +7,7 @@ function calculator(string $a): string
 
     if (strpos($a, '/0')) {
         return 'Incorrect input';
-    } else {
+    } {
         $numericalExpressionArray = str_split($a);
     }
 
