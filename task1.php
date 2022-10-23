@@ -7,9 +7,8 @@ function calculator(string $a): string
 
     if (strpos($a, '/0')) {
         return 'Incorrect input';
-    } {
-        $numericalExpressionArray = str_split($a);
     }
+    $numericalExpressionArray = str_split($a);
 
     foreach ($numericalExpressionArray as $keyArray) {
         if (!(in_array($keyArray, $checklistSymbols) && in_array($keyArray, $checklistNumbers))) {
