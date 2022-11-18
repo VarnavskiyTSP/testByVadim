@@ -1,0 +1,107 @@
+body {
+    background-color: blue;
+    margin: 0;
+    font-family: 'Arial';
+}
+
+.logo {
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.text {
+    color: #00FF00;
+    font-size: 48px;
+    margin-left: 20%;
+    margin-top: -10%;
+}
+
+.container {
+    float: left;
+    background-color: green;
+    width: 39.9%;
+    height: 200px;
+    margin-left: 10%;
+}
+
+.container2 {
+    float: right;
+    background-color: green;
+    width: 39.9%;
+    height: 200px;
+    margin-right: 10%;
+}
+
+.container3 {
+    float: left;
+    background-color: green;
+    width: 39.9%;
+    height: 200px;
+    margin-left: 10%;
+    margin-top: 0.15%;
+}
+
+.container4 {
+    float: right;
+    background-color: green;
+    width: 39.9%;
+    height: 200px;
+    margin-right: 10%;
+    margin-top: 0.15%;
+}
+
+.demon {
+    text-decoration: underline;
+    font-size: 24px;
+    color: #FFD700;
+    margin-left: 10%;
+}
+
+.creator {
+    text-decoration: underline;
+    font-size: 24px;
+    color: #FFD700;
+    margin-left: 10%;
+}
+
+.level {
+    text-decoration: underline;
+    font-size: 24px;
+    color: #FFD700;
+    margin-left: 10%;
+}
+
+.part {
+    text-decoration: underline;
+    font-size: 24px;
+    color: #FFD700;
+    margin-left: 10%;
+}
+
+.demonlist {
+    font-size: 20px;
+    color: white;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.creatorlist {
+    font-size: 20px;
+    color: white;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.levellist {
+    font-size: 20px;
+    color: white;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.partlist {
+    font-size: 20px;
+    color: white;
+    margin-left: 10%;
+    margin-top: 2%;
+}
